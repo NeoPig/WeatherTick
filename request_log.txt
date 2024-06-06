@@ -1,0 +1,6 @@
+
+
+LOGGED PLACES:
+
+Place: Tokyo, Days: 1, Option: Temperature
+Place: Tokyo, Days: 1, Option: Sky
